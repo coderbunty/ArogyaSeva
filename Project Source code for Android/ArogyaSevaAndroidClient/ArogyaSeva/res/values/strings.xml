@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArogyaSeva</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="event_name_placeholder">Event Name</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="GPSAlertDialogMessage">May be your GPS is off!</string>
+    <string name="GPSAlertDialogTitle">GPS Alert</string>
+    <string name="title_activity_event_upload_download">EventUploadDownload</string>
+    <string name="noOfStudent">Number of records added/updated: </string>
+    <string name="noOfUploadsRemaining">Number of records to be uploaded: </string>
+    <string name="noOfUploads">Number of uploaded records: </string>
+    <string name="eventName">Event Name</string>
+    <string name="title_activity_student_pers_health_info">StudentPersHealthInfo</string>
+
+</resources>
